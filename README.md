@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michele!</h1>
-<h3 align="center">A Production Engineering student and passionate for technology.</h3>
+<h3 align="center">A Production Engineering student passionate for solve problems using technology.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
